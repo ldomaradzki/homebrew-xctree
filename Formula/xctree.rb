@@ -1,5 +1,5 @@
 class Xctree < Formula
-  desc "Swift tool to extract iOS Simulator accessibility trees from command line"
+  desc "Swift tool to extract iOS Simulator accessibility trees from command-line"
   homepage "https://github.com/ldomaradzki/xctree"
   url "https://github.com/ldomaradzki/xctree/archive/refs/tags/v0.1.0.tar.gz"
   sha256 "332ab5c42b863d3c92f2c82d0e79ad06fb71c419d405b8feba81d35f39083027"
